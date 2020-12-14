@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=200&section=header&text=Phantom's%20profile%20(=^-ω-^=)&fontSize=60&fontAlignY=50&animation=twinkling)
+
 # Info
 Neither do I know what this is >^<
 
