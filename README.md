@@ -3,5 +3,7 @@
 ###### Neither do I know what this is >^<
 
 ![phantom0174's github stats](https://github-readme-stats.vercel.app/api?username=phantom0174&count_private=true&show_icons=true&theme=tokyonight)
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phantom0174&theme=tokyonight)
+<br>
 ![phantom0174's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=phantom0174&theme=tokyonight)
