@@ -7,3 +7,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phantom0174&theme=tokyonight)
 <br>
 ![phantom0174's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=phantom0174&theme=tokyonight)
+<br>
+<figure><embed src="https://wakatime.com/share/@phantom0174/a40a8731-63d1-42b2-ad23-aac471f29ec7.svg"></embed></figure>
