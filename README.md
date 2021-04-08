@@ -25,5 +25,5 @@ There're some things I'm currently working with!
 ![](https://icongr.am/devicon/cplusplus-original.svg?size=40)
 ![](https://icongr.am/devicon/mongodb-original-wordmark.svg?size=40)
 ![](https://icongr.am/devicon/pycharm-original.svg?size=40)
-![](https://icongr.am/simple/anaconda.svg?size=40)
-![](https://icongr.am/simple/codefactor.svg?size=40)
+![](https://icongr.am/simple/anaconda.svg?size=40&color=35d047)
+![](https://icongr.am/simple/codefactor.svg?size=40&color=ffffff)
