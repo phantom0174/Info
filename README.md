@@ -16,3 +16,14 @@ There're some things I'm currently working with!
 <br>
 ![phantom0174's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=phantom0174&theme=tokyonight)
 <br>
+
+---
+
+![](https://icongr.am/devicon/python-original.svg?size=40)
+![](https://icongr.am/devicon/atom-original.svg?size=40)
+![](https://icongr.am/devicon/c-original.svg?size=40)
+![](https://icongr.am/devicon/cplusplus-original.svg?size=40)
+![](https://icongr.am/devicon/mongodb-original-wordmark.svg?size=40)
+![](https://icongr.am/devicon/pycharm-original.svg?size=40)
+![](https://icongr.am/simple/anaconda.svg?size=40)
+![](https://icongr.am/simple/codefactor.svg?size=40)
