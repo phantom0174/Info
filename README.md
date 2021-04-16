@@ -2,7 +2,7 @@
 
 ## :four_leaf_clover: Hi! I'm phantom0174!
 <br>
-There're some things I'm currently working with!
+There're some things I'm currently working on!
 
 * :exclamation: There hasn't been much coding in the recent days.
 * :sparkling_heart: I'm currently studying on some interesting maths, go check it out!
