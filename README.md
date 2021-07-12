@@ -1,29 +1,53 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=200&section=header&text=Phantom's%20profile%20(=^-ω-^=)&fontSize=60&fontAlignY=50&animation=twinkling)
+<p align="center">
+	<img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=90&section=header&text=Phantom's%20profile%20(=^-ω-^=)&fontSize=40&fontAlignY=50&animation=twinkling" alt="profile_banner">
+</p>
 
-## :four_leaf_clover: Hi! I'm phantom0174!
-<br>
-There're some things I'm currently working on!
+<h1 align="center">🍀 Hi! I'm phantom0174!</h1>
 
-* :exclamation: There hasn't been much coding in the recent days.
-* :sparkling_heart: I'm currently studying on some interesting maths, go check it out!
-  * [My book](https://hackmd.io/@Quantum-GrAyee/r1hZJ9gQO)
+<div id="personal_info">
+	<h2 align="center">Just a ghost wandering in the school.</h2>
+	<ul>
+		<li> 📎 Contact: darrenhsiou@gmail.com
+		<li> 🌐 Personal website: Next year perhaps.
+	</ul>
+<div>
+	
+<div id="project">
+	<h2 align="left">Things I'm currently working on.</h2>
+	<ul>
+		<li> <a href="https://hackmd.io/@Quantum-GrAyee/senior_2_2">Esoteric mafs (finished)</a>
+		<li> Coming soon. (Next year perhaps)
+	</ul>
+</div>
 
-## :scroll: My Github stats
+<div id="status">
+	<h2 align="left">👨‍💻 Weekly coding stats</h2>
+	<p align="center">
+		<img src="https://github-readme-stats.vercel.app/api?username=phantom0174&count_private=true&show_icons=true&theme=tokyonight" alt="github_stats">
+		<br>
+		<img src="https://github-readme-stats.vercel.app/api/wakatime?username=phantom0174&theme=tokyonight" alt="wakatime_stats">
+		<br>
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phantom0174&theme=tokyonight&hide=jupyter%20notebook" alt="top_langs">
+	</p>
+</div>
 
-![phantom0174's github stats](https://github-readme-stats.vercel.app/api?username=phantom0174&count_private=true&show_icons=true&theme=tokyonight)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phantom0174&theme=tokyonight&hide=jupyter%20notebook)
-<br>
-![phantom0174's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=phantom0174&theme=tokyonight)
-<br>
-
----
-
-![](https://icongr.am/devicon/python-original.svg?size=40)
-![](https://icongr.am/devicon/atom-original.svg?size=40)
-![](https://icongr.am/devicon/c-original.svg?size=40)
-![](https://icongr.am/devicon/cplusplus-original.svg?size=40)
-![](https://icongr.am/devicon/mongodb-original-wordmark.svg?size=40)
-![](https://icongr.am/devicon/pycharm-original.svg?size=40)
-![](https://icongr.am/simple/anaconda.svg?size=40&color=35d047)
-![](https://icongr.am/simple/codefactor.svg?size=40&color=56f068)
+<hr>
+	
+<div id="langs_and_tools">
+	<h2 align="left">🛠️💻 Languages and Tools</h2>
+	<div id="langs">
+		<img src="https://icongr.am/devicon/python-original.svg?size=40" alt="python">
+		<img src="https://icongr.am/devicon/c-original.svg?size=40" alt="c">
+		<img src="https://icongr.am/devicon/cplusplus-original.svg?size=40" alt="cpp">
+		<img src="https://icongr.am/devicon/javascript-original.svg?size=40" alt="js">
+		<img src="https://icongr.am/devicon/html5-original.svg?size=40" alt="html5">
+	</div>
+	<br>
+	<div id="tools">
+		<img src="https://icongr.am/devicon/pycharm-original.svg?size=40" alt="pycharm">
+		<img src="https://icongr.am/simple/anaconda.svg?size=40&color=35d047" alt="anaconda">
+		<img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=40" alt="mongodb">
+		<img src="https://icongr.am/devicon/atom-original.svg?size=40" alt="atom">
+		<img src="https://icongr.am/simple/codefactor.svg?size=40&color=56f068" alt="codefactor">
+	</div>
+</div>
