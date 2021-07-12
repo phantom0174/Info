@@ -5,7 +5,7 @@
 <h1 align="center">🍀 Hi! I'm phantom0174!</h1>
 
 <div id="personal_info">
-	<h2 align="center">Just a ghost wandering in the school.</h2>
+	<h2 align="center">Just a ghost wandering at the school.</h2>
 	<ul>
 		<li> 📎 Contact: darrenhsiou@gmail.com
 		<li> 🌐 Personal website: Next year perhaps.
