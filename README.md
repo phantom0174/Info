@@ -34,7 +34,7 @@
 <hr>
 	
 <div id="langs_and_tools">
-	<h2 align="left">🛠️💻 Languages and Tools</h2>
+	<h2 align="left">🛠️ Languages and Tools</h2>
 	<div id="langs">
 		<img src="https://icongr.am/devicon/python-original.svg?size=40" alt="python">
 		<img src="https://icongr.am/devicon/c-original.svg?size=40" alt="c">
