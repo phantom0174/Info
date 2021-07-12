@@ -15,7 +15,7 @@
 <div id="project">
 	<h2 align="left">Things I'm currently working on.</h2>
 	<ul>
-		<li> <a href="https://hackmd.io/@Quantum-GrAyee/senior_2_2">Esoteric mafs (finished)</a>
+		<li> <a href="https://hackmd.io/@Quantum-GrAyee/senior_2_2" target="_blank">Esoteric mafs (finished)</a>
 		<li> Coming soon. (Next year perhaps)
 	</ul>
 </div>
