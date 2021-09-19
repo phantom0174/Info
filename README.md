@@ -17,6 +17,7 @@
 	<ul>
 		<li> <a href="https://hackmd.io/@Quantum-GrAyee/senior_2_2" target="_blank">Esoteric mafs (finished)</a>
 		<li> Coming soon. (Next year perhaps)
+		<li> <img src="https://latex.codecogs.com/png.latex?\dpi{120}&space;\large&space;\begin{align*}&space;I(x)=\int_{0}^{x}\frac{dt}{t^{\frac{q}{p}}&plus;1}&space;=\begin{cases}&space;p\sum_{k=1}^{m}\left((-1)^{k-1}\frac{x^{1-\frac{q}{p}k}}{p-kq}\right)&plus;\frac{p}{q}(-1)^{m}\sum_{\omega^{q}&plus;1=0}\left(\omega^{p-(m&plus;1)q}\ln\left(x^{\frac{1}{p}}-\omega\right)\right)&plus;C,\&space;\text{where&space;}m=\left&space;\lfloor&space;\frac{p-1}{q}&space;\right&space;\rfloor&space;&&space;\text{&space;if&space;}&space;p\geq&space;q&plus;1&space;\\&space;\\&space;\frac{p}{q}\sum_{\omega^q&plus;1=0}\left(\omega^{p-q}\ln\left(x^\frac{1}{p}-\omega\right)\right)&plus;C&space;&&space;\text{&space;if&space;}&space;p<&space;q&plus;1&space;\end{cases}&space;\end{align*}" alt="weird thing">
 	</ul>
 </div>
 
