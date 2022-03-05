@@ -40,6 +40,7 @@
 		<img src="https://icongr.am/devicon/c-original.svg?size=40" alt="c">
 		<img src="https://icongr.am/devicon/cplusplus-original.svg?size=40" alt="cpp">
 		<img src="https://icongr.am/devicon/javascript-original.svg?size=40" alt="js">
+		<img src="https://icongr.am/devicon/typescript-original.svg?size=40" alt="ts">
 		<img src="https://icongr.am/devicon/html5-original.svg?size=40" alt="html5">
 	</div>
 	<br>
