@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=90&section=header&text=Phantom's%20profile%20(=^-ω-^=)&fontSize=40&fontAlignY=50&animation=twinkling" alt="profile_banner">
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=Phantom's%20profile%20(=^-ω-^=)&fontSize=40&fontAlignY=40&animation=twinkling" alt="profile_banner">
 </p>
 
 <h1 align="center">🍀 Hi! I'm phantom0174!</h1>
