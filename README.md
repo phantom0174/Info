@@ -8,7 +8,7 @@
 	<h2 align="center">Just a phantom wandering around the campus.</h2>
 	<ul>
 		<li> 📎 Contact: darrenhsiou@gmail.com
-		<li> 🌐 Personal website: Next year perhaps.
+		<li> 🌐 Personal website: phantom0174.github.io
 	</ul>
 <div>
 	
