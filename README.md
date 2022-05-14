@@ -8,7 +8,7 @@
 	<h2 align="center">Just a phantom wandering around the campus.</h2>
 	<ul>
 		<li> 📎 Contact: darrenhsiou@gmail.com
-		<li> 🌐 Personal website: Next year perhaps.
+		<li> 🌐 Personal website: https://phantom0174.github.io
 	</ul>
 <div>
 	
@@ -42,13 +42,15 @@
 		<img src="https://icongr.am/devicon/javascript-original.svg?size=40" alt="js">
 		<img src="https://icongr.am/devicon/typescript-original.svg?size=40" alt="ts">
 		<img src="https://icongr.am/devicon/html5-original.svg?size=40" alt="html5">
+		<img src="https://icongr.am/devicon/css3-original.svg?size=40">
 	</div>
 	<br>
 	<div id="tools">
-		<img src="https://icongr.am/devicon/pycharm-original.svg?size=40" alt="pycharm">
-		<img src="https://icongr.am/simple/anaconda.svg?size=40&color=35d047" alt="anaconda">
+		<img width=40 src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/256px-Visual_Studio_Code_1.35_icon.svg.png">
+		<img width=40 src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/256px-PyCharm_Icon.svg.png">
+		<img src="https://icongr.am/simple/anaconda.svg?size=40&color=41af28" alt="anaconda">
 		<img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=40" alt="mongodb">
 		<img src="https://icongr.am/devicon/atom-original.svg?size=40" alt="atom">
-		<img src="https://icongr.am/simple/codefactor.svg?size=40&color=56f068" alt="codefactor">
+		<img src="https://icongr.am/simple/codefactor.svg?size=40&color=41af28" alt="codefactor">
 	</div>
 </div>
