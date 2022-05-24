@@ -22,12 +22,12 @@
 <div id="status">
 	<h2 align="left">👨‍💻 Weekly coding stats</h2>
 	<p align="center">
-		<img src="https://github-readme-stats.vercel.app/api?username=phantom0174&count_private=true&show_icons=true&theme=tokyonight" alt="github_stats">
-		<img src="http://github-readme-streak-stats.herokuapp.com?user=phantom0174&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="streak">
+		<img src="https://github-readme-stats.vercel.app/api?username=phantom0174&count_private=true&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="github_stats">
+		<img src="http://github-readme-streak-stats.herokuapp.com?user=phantom0174&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=1800" alt="streak">
 		<br>
-		<img src="https://github-readme-stats.vercel.app/api/wakatime?username=phantom0174&theme=tokyonight" alt="wakatime_stats">
+		<img src="https://github-readme-stats.vercel.app/api/wakatime?username=phantom0174&theme=tokyonight&cache_seconds=1800" alt="wakatime_stats">
 		<br>
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phantom0174&theme=tokyonight&hide=jupyter%20notebook" alt="top_langs">
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phantom0174&theme=tokyonight&hide=jupyter%20notebook&cache_seconds=1800" alt="top_langs">
 	</p>
 </div>
 
