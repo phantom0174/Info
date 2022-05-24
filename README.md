@@ -27,7 +27,7 @@
 		<br>
 		<img src="https://github-readme-stats.vercel.app/api/wakatime?username=phantom0174&theme=tokyonight&cache_seconds=1800" alt="wakatime_stats">
 		<br>
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phantom0174&theme=tokyonight&hide=jupyter%20notebook" alt="top_langs">
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phantom0174&theme=tokyonight&hide=jupyter%20notebook&cache_seconds=1800" alt="top_langs">
 	</p>
 </div>
 
