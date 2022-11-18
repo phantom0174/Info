@@ -43,11 +43,13 @@
 		<img src="https://icongr.am/devicon/typescript-original.svg?size=40" alt="ts">
 		<img src="https://icongr.am/devicon/html5-original.svg?size=40" alt="html5">
 		<img src="https://icongr.am/devicon/css3-original.svg?size=40">
+		<img src="https://icongr.am/devicon/java-original.svg?size=40&color=currentColor" alt="java">
 	</div>
 	<br>
 	<div id="tools">
 		<img width=40 src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/256px-Visual_Studio_Code_1.35_icon.svg.png">
 		<img width=40 src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/256px-PyCharm_Icon.svg.png">
+		<img width=40 src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ_IDEA">
 		<img src="https://icongr.am/simple/anaconda.svg?size=40&color=41af28" alt="anaconda">
 		<img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=40" alt="mongodb">
 		<img src="https://icongr.am/devicon/atom-original.svg?size=40" alt="atom">
